@@ -21,4 +21,4 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-075b9a?style=flat-square&logo=flutter)
 ![Webpack](https://img.shields.io/badge/-webpack-2b3a42?style=flat-square&logo=webpack)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mdexSwap&show_icons=true&theme=vue-dark&count_private=true&cache_seconds=1800)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mdexSwap&show_icons=true&theme=vue-dark&count_private=true&hide=contribs,issues&cache_seconds=1800)
